@@ -3,7 +3,7 @@ Frontend Developer Roadmap: What is Frontend Development?  Learn what Frontend D
 منابع فرانت‌اند (front-end)
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
-🎯 **رودمپ جامع فرانت‌اند ( [roadmap.sh/frontend](https://roadmap.sh/frontend) )**
+🎯 **رودمپ جامع فرانت‌اند ( [Roadmap.sh/frontend](https://roadmap.sh/frontend) )**
 
 **Structure : HTML5 (SEO Basics & Accessibility/A11y)**
 
