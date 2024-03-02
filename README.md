@@ -4,6 +4,7 @@ Frontend Developer Roadmap: What is Frontend Development?  Learn what Frontend D
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
 🎯 **رودمپ جامع فرانت‌اند (roadmap.sh/frontend)**
+
 **Structure : HTML5 (SEO Basics & Accessibility/A11y)**
 
 **Design & Layout : CSS3 (Flex Box, CSS Grid, Responsive, Animations)**
