@@ -17,7 +17,8 @@ Clean Code & Style Guides
 
 
 🎯 داکیومنت‌ها
-- [داکیومنت HTML از سایت MDN]((https://developer.mozilla.org/en-US/docs/Web/HTML))
+
+- [داکیومنت HTML از سایت MDN]([url](https://developer.mozilla.org/en-US/docs/Web/HTML))
 
 - داکیومنت Accessibility از سایت MDN
 
