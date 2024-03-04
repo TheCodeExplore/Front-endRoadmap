@@ -49,7 +49,7 @@ Frontend Developer Roadmap: What is Frontend Development?  Learn what Frontend D
 
 - [داکیومنت Vue از سایت vue.js](https://vuejs.org/guide/introduction.html)
 
--[ داکیومنت Nuxt.js از سایت nuxt](https://nuxt.com/docs/getting-started/introduction)
+- [داکیومنت Nuxt.js از سایت nuxt](https://nuxt.com/docs/getting-started/introduction)
 
 - [داکیومنت React از سایت react.dev](https://react.dev/)
 
