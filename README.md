@@ -88,4 +88,4 @@ Frontend Developer Roadmap: What is Frontend Development?  Learn what Frontend D
 
 🎯 **آیکن‌های SVG**
 
-[icones](https://icones.js.org/collection/all) - [Boxicons](https://boxicons.com/) - [ionicons](https://ionic.io/ionicons) - [Heroicons](https://heroicons.com/) - [Font Awesome](https://fontawesome.com/icons)
+- [icones](https://icones.js.org/collection/all) - [Boxicons](https://boxicons.com/) - [ionicons](https://ionic.io/ionicons) - [Heroicons](https://heroicons.com/) - [Font Awesome](https://fontawesome.com/icons)
