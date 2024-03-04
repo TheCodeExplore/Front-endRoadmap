@@ -24,3 +24,7 @@ Frontend Developer Roadmap: What is Frontend Development?  Learn what Frontend D
 **Type Checkers : TypeScript**
 
 **Clean Code & Style Guides**
+🎯 **داکیومنت‌ها**
+
+- [داکیومنت HTML از سایت MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
