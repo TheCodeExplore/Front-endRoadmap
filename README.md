@@ -60,3 +60,31 @@ Frontend Developer Roadmap: What is Frontend Development?  Learn what Frontend D
 - [داکیومنت Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 
 - [داکیومنت JavaScript Style Guides](https://github.com/airbnb/javascript)
+
+🎯 **دوره‌های آموزشی جامع و کامل (انگلیسی)**
+
+- [آموزش HTML & CSS کورس یودمی Jonas Schmedtmann](https://downloadlynet.ir/2020/13/3441/03/build-responsive-real-world-websites-with-html5-and-css3/17/?#/3441-udemy-172414032704.html) 
+
+- آموزش SASS کورس یودمی Jonas Schmedtmann
+
+- آموزش JavaScript کورس یودمی Jonas Schmedtmann
+
+- آموزش Git & Github کورس یودمی Mosh Hamedani
+
+- آموزش Tailwind کرش کورس یوتوب Brad Traversy
+
+- آموزش Vue.js کورس یودمی Andrei Neagoie
+
+- آموزش Nuxt.js کورس یودمی Laith Harb
+
+- آموزش React.js کورس یودمی Jonas Schmedtmann
+
+- آموزش Next.js کورس یودمی Maximilian Schwarzmüller
+
+- آموزش TypeScript کورس یودمی Maximilian Schwarzmüller
+
+- آموزش Clean Code کورس یودمی Maximilian Schwarzmüller.
+
+
+🎯 آیکن‌های SVG 
+icones - Boxicons - ionicons - Heroicons - Font Awesome
