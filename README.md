@@ -1,5 +1,5 @@
 # Front-end-Roadmap
-Frontend Developer Roadmap: What is Frontend Development?  Learn what Frontend Development is, what frontend developers do and how to become a modern frontend developer using our community-driven roadmap.
+برنامه نویسی فرانت اند چیست؟ یاد بگیرید که Frontend Development چیست، توسعه دهندگان frontend چه می کنند و چگونه با استفاده از نقشه راه جامعه محور به یک برنامه نویس frontend مدرن تبدیل شوید.
 
 ## Front-end Resources
 
